@@ -258,39 +258,43 @@ ul {
 		/*TABLET*/
 
 	#about {
-		
+    	width: 80%;
 	}
 
 	#about img {
-	
-	}
-
-	#about p {
+		width: 45%;;
 		
 	}
 
+	#about p {
+		padding: 0px;
+	}
+
 	#connect {
+		width: 80%;
 		
 	}
 
 	#connect h3 {
-		
+		padding: 0px 0px 0px 15px;
 	}
 
 	#contact {
-		
+    	width: 80%;
 	}
 
 	#portfolio {
-		
+    	width: 80%;
 	}
 
 	#portfolio li {
-		
+		width: 45%;
+	   
 	}
 
 	#footer {
-		
+		width: 90%;
+	   
 	}
 
 
@@ -301,29 +305,32 @@ ul {
 @media (min-width: 992px) {
 
 	#about {
-		
+		width: 50%;
 	}
 
 	#connect {
-		
+		width: 25%;
 	}
 
 	#contact {
+    	width: 50%;
     	
 
 	}
 
 	#portfolio {
+    	width: 50%;
     	
 
 	}
 
 	#portfolio li {
-		
+		width: 45%;
 	}
 
 	#footer {
-		
+		width: 90%;
+	    
 	}
 
 
